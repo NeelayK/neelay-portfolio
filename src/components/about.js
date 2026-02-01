@@ -21,7 +21,7 @@ export async function renderAbout() {
           <div class="space-y-4">
             <h2 class="text-xs uppercase tracking-[0.4em] font-bold text-rose-600">About Me</h2>
             <h3 class="text-4xl md:text-6xl font-light tracking-tight text-black leading-tight">
-              Designing the intersection of <span class="italic font-serif">Robotics</span> and <span class="italic font-serif">Machine Learning</span>.
+              Designing the intersection of <span class="italic font-serif">Perception, Robotics</span> and <span class="italic font-serif">Machine Learning</span>.
             </h3>
           </div>
           
