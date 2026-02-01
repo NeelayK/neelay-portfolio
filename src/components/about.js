@@ -24,32 +24,11 @@ export async function renderAbout() {
               Designing the intersection of <span class="italic font-serif">Robotics</span> and <span class="italic font-serif">Machine Learning</span>.
             </h3>
           </div>
+<div class="max-w-2xl space-y-6"> <p class="text-lg text-black/70 leading-relaxed"> I am a student at <span class="text-black font-medium">IISER Thiruvananthapuram</span>, building <span class="italic text-black">intelligent robotic systems</span>. My work integrates <span class="font-medium text-black">hardware, perception, and learning</span> into cohesive, real-world solutions. </p>
 
-<div class="max-w-2xl space-y-6">
-  <p class="text-lg text-black/70 leading-relaxed">
-    I am a student at <span class="text-black font-medium">IISER Thiruvananthapuram</span>, focused on building
-    <span class="italic text-black">intelligent robotic systems</span> from the ground up. My work centers on
-    designing robots that integrate <span class="font-medium text-black">hardware, perception, control, and learning</span>
-    into cohesive, real-world systems.
-  </p>
+<p class="text-lg text-black/70 leading-relaxed"> My experience ranges from <span class="italic text-black">autonomous agricultural rovers</span> to <span class="italic text-black">distributed learning systems</span>. Beyond traditional robotics, I specialize in <span class="font-medium text-black">3D dataset generation in Blender</span> and designing <span class="font-medium text-black">manifold models</span> for 3D printing, bridging the gap between non-parametric 3D art and production-ready geometry. </p>
 
-  <p class="text-lg text-black/70 leading-relaxed">
-    I have worked on projects ranging from <span class="italic text-black">CNN-based facial recognition and distributed learning systems</span>
-    to <span class="italic text-black">autonomous agricultural rovers</span>, where I design both the
-    <span class="font-medium text-black">physical architecture</span> and the <span class="font-medium text-black">software stack</span>.
-    My experience spans <span class="italic text-black">low-level hardware integration</span> with Arduino and Raspberry Pi,
-    sensor and system design, and simulation-driven development for scalable robotic solutions.
-  </p>
-
-  <p class="text-lg text-black/70 leading-relaxed">
-    Alongside robotics, I build the supporting software that enables these systems—using
-    <span class="font-medium text-black">modern full-stack tools</span> like Supabase,
-    <span class="font-medium text-black">Flutter</span> for mobile interfaces, and custom dashboards for monitoring,
-    control, and data analysis. I approach robotics as a
-    <span class="italic text-black">multidisciplinary field</span>, combining engineering, computation, and design to
-    <span class="font-medium text-black">bridge software and the physical world</span>.
-  </p>
-</div>
+<p class="text-lg text-black/70 leading-relaxed"> I leverage <span class="font-medium text-black">modern full-stack tools</span> (Supabase, Flutter) to build control interfaces, but my core focus is <span class="italic text-black">2D-to-3D machine learning</span>. I aim to apply these spatial reconstruction techniques to solve complex perception challenges in the <span class="font-medium text-black">medical and industrial fields</span>. </p> </div>
 
 
           <div class="pt-8">
