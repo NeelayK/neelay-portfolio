@@ -24,12 +24,12 @@ export async function renderAbout() {
               Designing the intersection of <span class="italic font-serif">Robotics</span> and <span class="italic font-serif">Machine Learning</span>.
             </h3>
           </div>
-<div class="max-w-2xl space-y-6"> <p class="text-lg text-black/70 leading-relaxed"> I am a student at <span class="text-black font-medium">IISER Thiruvananthapuram</span>, building <span class="italic text-black">intelligent robotic systems</span>. My work integrates <span class="font-medium text-black">hardware, perception, and learning</span> into cohesive, real-world solutions. </p>
+          
+<div class="max-w-2xl space-y-6"> <p class="text-lg text-black/70 leading-relaxed"> I am a student at <span class="text-black font-medium">IISER Thiruvananthapuram</span>, where my primary focus is the frontier of <span class="font-bold text-black">2D-to-3D perception and machine learning</span>. I am driven by the challenge of enabling machines to "see" and reconstruct the physical world with high spatial fidelity. </p>
 
-<p class="text-lg text-black/70 leading-relaxed"> My experience ranges from <span class="italic text-black">autonomous agricultural rovers</span> to <span class="italic text-black">distributed learning systems</span>. Beyond traditional robotics, I specialize in <span class="font-medium text-black">3D dataset generation in Blender</span> and designing <span class="font-medium text-black">manifold models</span> for 3D printing, bridging the gap between non-parametric 3D art and production-ready geometry. </p>
+<p class="text-lg text-black/70 leading-relaxed"> I leverage <span class="font-medium text-black">3D dataset generation in Blender</span> and my expertise in <span class="font-medium text-black">manifold geometry</span> as the data foundation for these models. My goal is to deploy these reconstruction techniques into <span class="italic text-black">real-world medical and industrial systems</span>, moving beyond simulation into tactile, 3D-aware reality. </p>
 
-<p class="text-lg text-black/70 leading-relaxed"> I leverage <span class="font-medium text-black">modern full-stack tools</span> (Supabase, Flutter) to build control interfaces, but my core focus is <span class="italic text-black">2D-to-3D machine learning</span>. I aim to apply these spatial reconstruction techniques to solve complex perception challenges in the <span class="font-medium text-black">medical and industrial fields</span>. </p> </div>
-
+<p class="text-lg text-black/70 leading-relaxed"> My extensive background in <span class="italic text-black">robotics, hardware integration, and full-stack development</span> (Supabase, Flutter) serves as the supporting architecture to deploy these 3D ML models. I view these engineering skills as the essential <span class="font-medium text-black">delivery vehicle</span> for bringing advanced spatial perception into complex, physical environments. </p> </div>
 
           <div class="pt-8">
             <h4 class="text-[10px] uppercase tracking-[0.3em] font-bold text-black/40 mb-6">Technical Expertise</h4>
